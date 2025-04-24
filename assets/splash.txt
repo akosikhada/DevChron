@@ -1,0 +1,1 @@
+Creating a placeholder splash screen for the app. In a real app, you would replace this with properly designed assets.
